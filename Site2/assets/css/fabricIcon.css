@@ -1,0 +1,7 @@
+.fabric-icon::before {
+  content: url('Images/Fabric.png');
+  width: 15px;
+  height: 15px;
+  display: inline-block;
+  vertical-align: middle;
+}
